@@ -12,8 +12,7 @@
 </div>
 
 ## 💻 I am currently working on
-- Rank 1 of Codam's Path
-- Full Stack Development Skills Course [The Odin Project](https://www.theodinproject.com/)
+- Rank 2 of Codam's Path
 
 ---
  [![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&color=orange&logo=blogger&logoColor=white)](https://dudamakesthings.blogspot.com/)
@@ -22,8 +21,10 @@
  [![Shop](https://img.shields.io/static/v1?label=&message=Shop&color=orange&logo=instagram&logoColor=white)](https://www.instagram.com/electricsheepcrafts/)
  [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=orange&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edooarda/)
  [![Behance](https://img.shields.io/static/v1?label=&message=Behance&color=orange&logo=behance&logoColor=white)](https://www.behance.net/dudamakesthings)
- [![Linktree](https://img.shields.io/static/v1?label=&message=Linktree&color=orange&logo=linktree&logoColor=white)](https://linktr.ee/dudamakesthings)
+ [![Digital Garden](https://img.shields.io/badge/Digital_Garden-orange?logo=notion)](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4)
 <!---
+- Full Stack Development Skills Course [The Odin Project](https://www.theodinproject.com/)
+
 dudamakesthings/dudamakesthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
