@@ -6,16 +6,20 @@
 
 ## 🧠 I am currently learning 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" width="60" height="40"/>
+  
 </div>
 
 ## 💻 I am currently working on
 - Rank 2 of Codam's Path
+- Coding Art and CSS Art! <3 (it is so nice!)
+- [My Blog page](https://dudamakesthings.github.io/) using [HUGO](https://gohugo.io/) and Markdown language, in the future I want to make my on theme
 
 ---
- [![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&color=orange&logo=blogger&logoColor=white)](https://dudamakesthings.blogspot.com/)
  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=orange&logo=gmail&logoColor=white)](mailto:dudamakesthings@gmail.com)
  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=orange&logo=instagram&logoColor=white)](https://www.instagram.com/dudamakesthings)
  [![Shop](https://img.shields.io/static/v1?label=&message=Shop&color=orange&logo=instagram&logoColor=white)](https://www.instagram.com/electricsheepcrafts/)
