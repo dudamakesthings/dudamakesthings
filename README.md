@@ -2,8 +2,19 @@
 ## 🙋‍♀️ Hello World!
 - My name is **Eduarda** but you can call me **Duda**, I am a Brazilian Woman 🇧🇷 currently residing in Amsterdam 🇳🇱 
 - I am pleased to say that I am a **student** in _Software Engineering_ at **CODAM** a 42 School ✨
-- I am interested in Crafts, Art and Learn 🫀
+- I am interested in Crafts, Art, and Learning 🫀
 
+
+---
+<a href="mailto:dudamakesthings@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/edooarda/"><img src="https://img.shields.io/badge/Linkedin-orange?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin" /></a>
+<a href="https://www.behance.net/dudamakesthings"><img src="https://img.shields.io/badge/Behance-orange?style=for-the-badge&amp;logo=Behance&amp;logoColor=white" alt="Behance" /></a>
+<a href="https://www.instagram.com/dudamakesthings/"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/electricsheepcrafts/"><img src="https://img.shields.io/badge/SHOP-orange?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="SHOP" /></a>
+<a href="https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4"><img src="https://img.shields.io/badge/Digital_Garden-orange?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Digital Garden" /></a>
+---
+
+<!---
 ## 🧠 I am currently learning 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/>
@@ -20,15 +31,14 @@
 - **Creative Coding** (using [P5js library](https://p5js.org/)) and **[CSS Art](https://codepen.io/dudamakesthings)**! 💖 ~ Nothing to share yet ~
 - **Web Development** Course [The Odin Project](https://www.theodinproject.com/) ~ sloooooowly working ~
 
----
+--- 
  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=orange&logo=gmail&logoColor=white)](mailto:dudamakesthings@gmail.com)
  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=orange&logo=instagram&logoColor=white)](https://www.instagram.com/dudamakesthings)
  [![Shop](https://img.shields.io/static/v1?label=&message=Shop&color=orange&logo=instagram&logoColor=white)](https://www.instagram.com/electricsheepcrafts/)
  [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=orange&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edooarda/)
  [![Behance](https://img.shields.io/static/v1?label=&message=Behance&color=orange&logo=behance&logoColor=white)](https://www.behance.net/dudamakesthings)
  [![Digital Garden](https://img.shields.io/badge/Digital_Garden-orange?logo=notion)](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4)
-<!---
-
+ 
 dudamakesthings/dudamakesthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
