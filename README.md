@@ -1,20 +1,40 @@
-![banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4TXNYoS70ZTGDNt-YBdxvo_OD9AxtWJSPyxTSZKF1tIDGn4ZZo8OgQA-Ouj4BOByf1HMBRAVdcxKXkoRcMbMalTrdT9KkFAeL2GDwOcy3VV_MBSCptiEjnhtRiBphrPbgA8czzT4R6IrtEe29UUxBdX2JqzGW1svC-hSF4EIMdgzj7OIIwLyBkbT7vQ/s1280/code_banner.png)
-## 🙋‍♀️ Hello World!
-- My name is **Eduarda** but you can call me **Duda**, I am a Brazilian Woman 🇧🇷 currently residing in Amsterdam 🇳🇱 
-- I am pleased to say that I am a **student** in _Software Engineering_ at **CODAM** a 42 School ✨
-- I am interested in Crafts, Art, and Learning 🫀
+![banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MzIeh-VbJrOEi8Np6k69JpwekL1xJ6a16ftzmkHzQveBGDJ7JAg2mmNZk_jJkg-pPxtcF2zx73EYIDIsgX9iPoJOZkXO_jaw2VomkumeG6e695NMq334PFVF7NPj2TxD-ekoEeYTy0egjqBzH51NFMQNc5LQVSuVuxkrh9NDp3SQPSumN7PzqlaweXk/s1000/usagi_banner_1000.jpg)
 
+```C
+  printf("Hello World!\n");
+  printf("🖖\n");
+```
 
+- I am <ins>Eduarda</ins>, a **Software Engineer** with sparks of an **Artisan** ✨
+- Here you will find my **CODAM** projects repositories (identified in their descriptions) and, of course, personal projects as well. 😉
+  
+```C
+  if (You want to enter in contact)
+  {
+     below 👇 there are links where you can find me 🔍 on the Internet;
+  }
+  else
+  {
+     Welcome to my profile and my projects!🐇;
+  }
+```
 ---
-<a href="mailto:dudamakesthings@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/edooarda/"><img src="https://img.shields.io/badge/Linkedin-orange?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin" /></a>
-<a href="https://www.behance.net/dudamakesthings"><img src="https://img.shields.io/badge/Behance-orange?style=for-the-badge&amp;logo=Behance&amp;logoColor=white" alt="Behance" /></a>
-<a href="https://www.instagram.com/dudamakesthings/"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
-<a href="https://www.instagram.com/electricsheepcrafts/"><img src="https://img.shields.io/badge/SHOP-orange?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="SHOP" /></a>
-<a href="https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4"><img src="https://img.shields.io/badge/Digital_Garden-orange?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Digital Garden" /></a>
+
+<a href="https://www.behance.net/dudamakesthings" target="_blank"><img src="https://img.shields.io/badge/Behance-pink?style=for-the-badge&amp;logo=Behance&amp;logoColor=grey" alt="Behance" /></a>
+<a href="https://dudamakesthings.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-pink?style=for-the-badge&logo=blogger&logoColor=grey" alt="Blog"></a>
+<a href="https://vasquetundum.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Creative_Atelier-pink?style=for-the-badge&logo=tumblr&logoColor=grey" alt="Creative Atelier"></a>
+<a href="https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Digital_Garden-pink?style=for-the-badge&amp;logo=notion&amp;logoColor=grey" alt="Digital Garden" /></a>
+<a href="mailto:dudamakesthings@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-pink?style=for-the-badge&amp;logo=gmail&amp;logoColor=grey" alt="Gmail" /></a>
+<a href="https://www.instagram.com/dudamakesthings/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&amp;logo=instagram&amp;logoColor=grey" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/edooarda/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-pink?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=grey" alt="Linkedin" /></a>
+<a href="https://www.instagram.com/electricsheepcrafts/" target="_blank"><img src="https://img.shields.io/badge/SHOP-pink?style=for-the-badge&amp;logo=instagram&amp;logoColor=grey" alt="SHOP" /></a>
+
 ---
 
 <!---
+
+badge genarator > https://michaelcurrin.github.io/badge-generator/#/generic
+
 ## 🧠 I am currently learning 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/>
